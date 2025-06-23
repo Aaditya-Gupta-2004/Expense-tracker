@@ -129,3 +129,7 @@ STATICFILES_DIRS = [
 
 # settings.py
 APPEND_SLASH = False
+
+
+LOGIN_URL = '/login'
+
