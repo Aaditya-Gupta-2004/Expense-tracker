@@ -4,10 +4,6 @@
 ```
 git clone https://github.com/your-username/django-expense-tracker.git
 ```
-```
-cd django-expense-tracker
-```
-
 
 ### 2. Install dependencies
 ```
@@ -17,6 +13,8 @@ pip install -r requirements.txt
 ### 3. Run migrations
 ```
 python manage.py makemigrations
+```
+```
 python manage.py migrate
 ```
 
