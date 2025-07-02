@@ -2,7 +2,7 @@
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/your-username/django-expense-tracker.git
+git clone https://github.com/Aaditya-Gupta-2004/django-expense-tracker.git
 ```
 
 ### 2. Install dependencies
